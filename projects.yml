@@ -1,1 +1,4 @@
-- playwright-gitpod-starter
+playwright-gitpod-starter:
+  description: Repo ready to run integration test using Playwright
+  author: Jonatas Emidio
+  github: github.com/jonatasemidio
